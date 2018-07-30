@@ -1,9 +1,9 @@
 ### Capítulo-1 
 -------------------------------
 ## Introdução
-<br><br><br>
+<br>
 
-O JavaScript é a línguagem voltada para Web. Ele começou como uma maneira de manipular alguns tipos de elementos selecionados em uma página da Web (como imagens e campos de formulário), mas cresceu tremendamente. Além de scripting browser do lado do cliente, agora você pode usar JavaScript para programar para um número crescente de plataformas. Você pode escrever código do lado do servidor (usando .Net ou Node.js), aplicativos para Desktop (que funcionam em todos os sistemas operacionais) e extensões de aplicativos (por exemplo, para Firefox ou Photoshop), aplicativos móveis e scripts de linha de comando.
+O JavaScript é uma linguagem voltada para Web. Ele começou como uma maneira de manipular alguns tipos de elementos selecionados em páginas Web (como imagens e campos de formulário), mas cresceu tremendamente. Além de scripting browser do lado do cliente, agora você pode usar JavaScript para programar para um número crescente de plataformas. Você pode escrever código do lado do servidor (usando .Net ou Node.js), aplicativos para Desktop (que funcionam em todos os sistemas operacionais) e extensões de aplicativos (por exemplo, para Firefox ou Photoshop), aplicativos móveis e scripts de linha de comando.
 JavaScript também é uma linguagem incomum. Ele não tem classes, e funções são Firstclass objetos usados para muitas tarefas. Inicialmente, a linguagem foi considerada deficiente por muitos desenvolvedores, mas atualmente essas opiniões mudaram. Curiosamente, linguagens como Java e php começaram a adicionar funcionalidades como encerramentos e funções anônimas, que os desenvolvedores JavaScript têm vindo a desfrutar e tomar para concedido por um tempo.
 O JavaScript é dinâmico o suficiente para que você possa desenvolver como uma línguagem que você já é acostumado para desenvolvimento de suas aplicações. Mas a melhor abordagem é abraçar suas diferenças e estudar seus padrões específicos.
 
