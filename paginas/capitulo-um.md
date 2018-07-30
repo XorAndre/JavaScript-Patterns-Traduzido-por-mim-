@@ -89,5 +89,22 @@ Começando com o próximo capítulo, você verá JSLint mencionado muito. Todo o
 Em suas configurações padrão, JSLint espera que seu código seja estrito modo-compliant.
 
 ### O Console
-O objeto console é usado em todo o livro. Este objeto não faz parte da linguagem, mas parte do ambiente e está presente na maioria dos navegadores atuais. No Firefox, por exemplo, ele vem com a extensão do Firebug. O console do Firebug tem uma interface do usuário que permite que você rapidamente digite e teste pequenos pedaços de código JavaScript e também brinque com a página atualmente carregada. Também é altamente recomendável como uma ferramenta de aprendizagem e exploratória. Funcionalidade semelhante a está disponível em navegadores WebKit (Safari e Chrome) como parte do Inspetor Web e no IE começando com a versão 8 como parte de ferramentas de desenvolvedor.
-A maioria dos exemplos de códigos neste livro usam o objeto console em vez de alert() ou atualizando a página atual, porque é uma maneira fácil e discreta de imprimir a saída.
+O objeto console é usado em todo o livro. Este objeto não faz parte da linguagem, mas parte do ambiente e está presente na maioria dos navegadores atuais. No Firefox, por exemplo, ele vem com a extensão do Firebug. O console do Firebug tem uma interface do usuário que permite que você rapidamente digite e teste pequenos pedaços de código JavaScript e também brinque com a página atualmente carregada (consulte a Figura 1-1). Também é altamente recomendável como uma ferramenta de aprendizagem e exploratória. Funcionalidade semelhante está disponível em navegadores WebKit (Safari e Chrome) como parte do Inspetor Web e no IE começando com a versão 8 como parte de ferramentas de desenvolvedor.
+A maioria dos exemplos de códigos neste livro usam o objeto console em vez de alert() ou atualizando a página atual, porque é uma maneira fácil e discreta de imprimir a saída.<br>
+![figura-1.1](figura-1-1-capitulo-um.png) 
+<br>
+Muitas vezes usamos o método log(), que imprime todos os parâmetros que passados para ele e às vezes dir() que enumera o objeto passado para ele, e imprime todas as propriedades. Aqui está um exemplo de uso:
+```js 
+console.log("teste", 1, {}, [1, 2, 3]);
+console.dir({um: 1, dois: {Three: 3}});
+```
+Quando você digita no console, você não precisa usar o console.log(); Você pode simplesmente omiti-lo. Para evitar a desordem, alguns trechos de código também podem ser ignorados, e suponhamos que você está testando o seguinte código no console:
+```js 
+ Window.Name === window['name']; //true 
+``` 
+ isso é como se tivéssemos usado o seguinte código: 
+```js 
+ console. log(Window.Name === window['name']);
+``` 
+e será imprimido true no console.
+
