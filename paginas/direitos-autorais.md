@@ -1,5 +1,5 @@
 ### Padrões JavaScript por Stoyan Stefanov Copyright © 2010 Yahoo!, Inc.. Todos os direitos reservados.
-#### Impressa nos Estados Unidos da América.
+#### Impresso nos Estados Unidos da América.
 Publicado por o ' Reilly Media, Inc., 1005 Gravenstein Highway Norte, Sebastopol, CA 95472.
 O ' Reilly Books pode ser comprado para uso promocional educacional, empresarial ou comercial. Edições online também estão disponíveis para a maioria dos títulos 
 [Link Safari](http://My.safaribooksonline.com). Para mais informações, contacte o nosso departamento de vendas corporativas/institucionais: (800) 998-9938 ou Corporate@oreilly.com.
