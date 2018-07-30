@@ -20,6 +20,6 @@ Nutshell manual, o logotipo manual nutshell, eo logotipo do ' Reilly são marcas
 Muitas das denominações usadas por fabricantes e vendedores para distinguir seus produtos são reivindicadas como marcas registradas. Onde essas denominações aparecem neste livro, e o ' Reilly Media, Inc., estava ciente de uma reivindicação de marca registrada, as denominações foram impressas em Caps ou caps inicial.
 Embora todas as precauções tenham sido tomadas na preparação deste livro, o editor e o autor não assumem qualquer responsabilidade por erros ou omissões, ou por danos resultantes da utilização das informações aqui contidas.  
 
-ISBN: 978-0-596-80675-0
-[LSI]
+ISBN: 978-0-596-80675-0 <br>
+[LSI] <br>
 1351870615
