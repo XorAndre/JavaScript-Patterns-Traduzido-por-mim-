@@ -104,7 +104,7 @@ Quando você digita no console, você não precisa usar o console.log(); Você p
 ``` 
  isso é como se tivéssemos usado o seguinte código: 
 ```js 
- console. log(Window.Name === window['name']);
+ console.log(Window.Name === window['name']);
 ``` 
 e será imprimido true no console.
 
